@@ -138,26 +138,28 @@
     border-radius: 283.4pt 283.4pt 0pt 0pt ;
     box-shadow: 2mm -10mm 10mm rgb(39, 39, 39);
 }
-.id-policy-heading{
+.id-policy {
     position: absolute;
-    top:10mm;
-    left: 8mm;
-    color:white;
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 9pt;
+    top: 9mm;
+    left: 2mm;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 8pt;
+    height: 32mm;
+    width: 54mm;
 }
-.id-policy-content{
+/* .id-policy-content{
     position: absolute;
     top:15mm;
     left: -2mm;
     color: rgb(213, 211, 211);
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 6.5pt;
-    line-height: 3.5mm;
-}
+    line-height: 3.5mm; */
+/* } */
 .id-issue-date{
     position: absolute;
-    top: 45mm;
+    top: 48mm;
     left: 14mm;
     color: white;
     font-family:'Courier New', Courier, monospace;
@@ -165,7 +167,7 @@
 }
 .id-expiry-date{
     position: absolute;
-    top: 50mm;
+    top: 53mm;
     left: 14mm;
     color: white;
     font-family:'Courier New', Courier, monospace;
